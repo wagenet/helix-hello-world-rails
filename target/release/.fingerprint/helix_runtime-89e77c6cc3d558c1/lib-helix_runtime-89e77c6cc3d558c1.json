@@ -1,0 +1,1 @@
+{"rustc":6858120930567365360,"target":2079841377132880087,"profile":4597243770934309319,"local":{"variant":"Precalculated","fields":["0.5.0-alpha-1"]},"features":"None","deps":[["cslice v0.2.0",12613964923706798214],["cstr-macro v0.1.0",12085339234117119962],["libc v0.2.21",9398164248870497998],["libcruby-sys v0.5.0-alpha-1",4612768616842717485]],"rustflags":[]}

@@ -1,0 +1,1 @@
+/Users/peterwagenet/Development/Rust/helix_examples/helix-hello-world-rails/target/release/libhelix_hello_world_rails.dylib: /Users/peterwagenet/Development/Rust/helix_examples/helix-hello-world-rails/src/lib.rs

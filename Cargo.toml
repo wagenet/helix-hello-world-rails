@@ -1,0 +1,9 @@
+[package]
+name = "helix_hello_world_rails"
+version = "0.1.0"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+helix_runtime = "0.5.0-alpha-1"
